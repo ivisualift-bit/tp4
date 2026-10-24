@@ -1,0 +1,65 @@
+[
+  {
+    "id": 10,
+    "name": "Laptop",
+    "category": "Informatique",
+    "price": 8500,
+    "stock": 8
+  },
+  {
+    "id": 11,
+    "name": "Souris",
+    "category": "Accessoires",
+    "price": 180,
+    "stock": 40
+  },
+  {
+    "id": 12,
+    "name": "Clavier mécanique",
+    "category": "Accessoires",
+    "price": 450,
+    "stock": 25
+  },
+  {
+    "id": 13,
+    "name": "Écran 27 pouces",
+    "category": "Informatique",
+    "price": 2300,
+    "stock": 12
+  },
+  {
+    "id": 14,
+    "name": "Imprimante laser",
+    "category": "Informatique",
+    "price": 1600,
+    "stock": 5
+  },
+  {
+    "id": 15,
+    "name": "Chaise de bureau",
+    "category": "Mobilier",
+    "price": 1200,
+    "stock": 10
+  },
+  {
+    "id": 16,
+    "name": "Bureau en bois",
+    "category": "Mobilier",
+    "price": 2100,
+    "stock": 4
+  },
+  {
+    "id": 17,
+    "name": "Casque Bluetooth",
+    "category": "Audio",
+    "price": 650,
+    "stock": 18
+  },
+  {
+    "id": 18,
+    "name": "Enceinte portable",
+    "category": "Audio",
+    "price": 520,
+    "stock": 15
+  }
+]
